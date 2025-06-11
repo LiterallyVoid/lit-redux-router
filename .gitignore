@@ -29,4 +29,3 @@ yarn.lock
 # build and temp folders
 /docs
 /lib
-/lit-redux-router.*

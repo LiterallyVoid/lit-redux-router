@@ -1,0 +1,1 @@
+{"version":3,"file":"lit-redux-router.d.ts","sourceRoot":"","sources":["src/lit-redux-router.ts"],"names":[],"mappings":"AAAA,OAAO,KAAK,EAAE,SAAS,EAAE,MAAM,sCAAsC,CAAC;AACtE,OAAO,KAAK,EAAE,KAAK,EAAE,MAAM,OAAO,CAAC;AAInC,eAAO,MAAM,aAAa,GAAI,OAAO,SAAS,GAAG,KAAK,KAAG,IAKxD,CAAC;AAEF,OAAO,EAAE,QAAQ,EAAE,MAAM,kBAAkB,CAAC"}
