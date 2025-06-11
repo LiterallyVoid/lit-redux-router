@@ -27,5 +27,3 @@ yarn.lock
 /coverage
 
 # build and temp folders
-/docs
-/lib
